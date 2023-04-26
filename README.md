@@ -1,2 +1,2 @@
 # prework-study-guidev2
-Because mistake in initial study guide
+Boot Camp Prework Study Guide for Students
