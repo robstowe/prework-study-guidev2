@@ -1,4 +1,4 @@
-# <Rob Stowe - Prework Study Guide - 1st Coding Project>
+# Rob Stowe - Prework Study Guide - 1st Coding Project
 
 ## Description
 
