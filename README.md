@@ -1,4 +1,4 @@
-# <Rob Stowe - Prework Study Guide - 1st Coding Project>
+# Rob Stowe - Prework Study Guide - 1st Coding Project
 
 ## Description
 
@@ -28,4 +28,3 @@ N/A
 ## License
 
 MIT License was utilized, you can see this referenced in the repo. 
-
